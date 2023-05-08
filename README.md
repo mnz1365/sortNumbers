@@ -1,3 +1,3 @@
 # sort numbers
 
-the code sort number from lower to higher.
+the code sort numbers from lower to higher.
